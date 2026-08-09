@@ -1,4 +1,4 @@
-classe,forma_chapeu,superficie_chapeu,cor_chapeu,machucados,odor,fixacao_branquinha,espacamento_branquinha,tamanho_branquinha,cor_branquinha,forma_caule,raiz_caule,superficie_caule_acima_anel,superficie_caule_abaixo_anel,cor_caule_acima_anel,cor_caule_abaixo_anel,cor_veu,numero_anel,tipo_anel,cor_impresao_esporos,populacao,habitat
+classe,forma_chapeu,superficie_chapeu,cor_chapeu,machucados,odor,fixacao_branquia,espacamento_branquia,tamanho_branquia,cor_branquia,forma_caule,raiz_caule,superficie_caule_acima_anel,superficie_caule_abaixo_anel,cor_caule_acima_anel,cor_caule_abaixo_anel,cor_veu,numero_anel,tipo_anel,cor_impresao_esporos,populacao,habitat
 p,x,s,n,t,p,f,c,n,k,e,e,s,s,w,w,w,o,p,k,s,u
 e,x,s,y,t,a,f,c,b,k,e,c,s,s,w,w,w,o,p,n,n,g
 e,b,s,w,t,l,f,c,b,n,e,c,s,s,w,w,w,o,p,n,n,m
